@@ -1,6 +1,6 @@
 ## Disnuke
 
-Created for the (ElementalCraft Discord Nukes)[https://cdn.discordapp.com/attachments/1022988533088137247/1104919834090811483/fuck_elementalcraft.mp4] (don't let your staff be transphobic then say i have an attitude, dickheads.). Pretty simple script, does the following:
+Created for the [ElementalCraft Discord Nukes](https://cdn.discordapp.com/attachments/1022988533088137247/1104919834090811483/fuck_elementalcraft.mp4) (don't let your staff be transphobic then say i have an attitude, dickheads.). Pretty simple script, does the following:
 
 - Deletes all Channels
 - Deletes all Categories
