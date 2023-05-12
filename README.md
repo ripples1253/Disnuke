@@ -1,13 +1,35 @@
-## Disnuke
+# Disnuke
 
-Created for the [ElementalCraft Discord Nukes](https://cdn.discordapp.com/attachments/1022988533088137247/1104919834090811483/fuck_elementalcraft.mp4) (don't let your staff be transphobic then say i have an attitude, dickheads.). Pretty simple script, does the following:
+Disnuke is a Discord bot that can be used to nuke a Discord server. Disnuke was created for the [ElementalCraft Discord Server Nukes](https://cdn.discordapp.com/attachments/1022988533088137247/1104919834090811483/fuck_elementalcraft.mp4). Fuck you, shitty staff <3
 
-- Deletes all Channels
-- Deletes all Categories
-- Deletes all Emojis
-- Bans everyone
+## Features
 
-***NOTE*** If discord starts rate limiting you, ***KEEP THE SCRIPT RUNNING***! It's still going, and still doing actions.
+* Delete all messages in a Discord server.
+* Ban all users in a Discord server.
+* Delete all channels in a Discord server.
+* Easy to use and modify.
 
-### DISCLAMER!!
-I AM NOT RESPONSIBLE FOR YOUR USAGE OF THIS SCRIPT OR YOUR DISCORD, SELF BOTTING IS AGAINST TOS AND IF YOU GET BANNED THAT'S ON YOU <3
+## Requirements
+
+* Python 3.6+
+
+## Installation
+
+git clone https://github.com/ripples1253/Disnuke.git
+cd Disnuke
+pip install -r requirements.txt
+```
+
+## Usage
+
+```
+python3 main.py
+```
+
+## Disclaimer
+
+Using Disnuke to nuke a Discord server is against Discord's Terms of Service. If you are caught using Disnuke, you may be banned from Discord.
+
+## License
+
+Disnuke is licensed under the MIT License. See the LICENSE file for more information.
