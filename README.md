@@ -15,9 +15,9 @@ Disnuke is a Discord bot that can be used to nuke a Discord server. Disnuke was 
 
 ## Installation
 
-git clone https://github.com/ripples1253/Disnuke.git
-cd Disnuke
-pip install -r requirements.txt
+* git clone https://github.com/ripples1253/Disnuke.git
+* cd Disnuke
+* pip install -r requirements.txt
 ```
 
 ## Usage
